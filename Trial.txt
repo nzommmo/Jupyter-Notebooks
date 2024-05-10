@@ -1,0 +1,2 @@
+Trial.ipynb
+Try to get all credit notes in DATA2.csv and group them by supplier then return the sum of the credit notes.
